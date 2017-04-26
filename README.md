@@ -1,2 +1,1 @@
-# display-personal-info
-personal information app
+# myproject1
